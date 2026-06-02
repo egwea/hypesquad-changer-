@@ -50,7 +50,6 @@ Run the script and choose your option!
 
 شغل السكربت واختر الخيار الذي يناسبك!
 
-🌐 Connect With Me / تواصل معي
 📜 Disclaimer / إخلاء مسؤولية
 This project is for educational and testing purposes only. Using self-bots or making automated requests with user tokens violates Discord's Terms of Service and may result in an account ban. Use it at your own risk.
 
